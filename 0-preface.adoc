@@ -2,6 +2,9 @@
 :pygments-style: manni
 :pygments-linenums-mode: inline
 
+:source-highlighter: coderay
+:coderay-linenums-mode: inline
+
 //:numbered!:
 
 // *****************************************************************************
